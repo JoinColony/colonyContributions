@@ -23,7 +23,7 @@ See [this tutorial](https://gitcoin.co/help/dev) on how to use Gitcion.
 # Workflow
 **Overview**
 1. New issue is added
-  1. As a suggestion by the community (discussed [below](https://github.com/JoinColony/colonyContributions/README.md#submitting-completed-work))
+  1. As a suggestion by the community (discussed [below](https://github.com/JoinColony/colonyContributions/blob/master/docs/README.md#suggesting-an-issue))
   2. As an issue by the core team
 2. Issue is funded using Gitcoin
 	1. Gitcoin bot will add a comment saying it’s been funded
