@@ -18,21 +18,21 @@ We have a profile page on [Gitcoin](https://gitcoin.co). We’ll be using their 
 3. Allow community members to “Claim” an issue
 4. Payout for completed work
 
-See [these tutorials](https://gitcoin.co/help/dev) on how to use Gitcion.
+See [this tutorial](https://gitcoin.co/help/dev) on how to use Gitcion.
 
 # Workflow
 **Overview**
-0. New issue is added
+1. New issue is added
   1. As a suggestion by the community (discussed [below](https://github.com/JoinColony/colonyContributions/README.md#submitting-completed-work))
   2. As an issue by the core team
-1. Issue is funded using Gitcoin
+2. Issue is funded using Gitcoin
 	1. Gitcoin bot will add a comment saying it’s been funded
 	2. You can make comments in the issue if you have questions or ideas
-2. Contributor clicks the button `Start work` on Gitcoin 
-3. Do the work
-4. Submit the work on Gitcoin
+3. Contributor clicks the button `Start work` on Gitcoin 
+4. Do the work
+5. Submit the work on Gitcoin
 	1. Colony will review, and if incomplete will ask for revisions
-5. Colony accepts the work and payment is sent to the worker
+6. Colony accepts the work and payment is sent to the worker
 
 ## Claiming an issue
 The common workflow is to have a core member add a new issue and fund it through Gitcoin. As a contributor, you can `Start Work` on that issue in Gitcoin.
