@@ -1,5 +1,7 @@
-# Introduction
-Welcome to the Colony Contribute repo where non-developers can get paid for contributing to the Colony project. (Developers: check out our Colony Network repo.)
+<img align="center" src="./Colony_Header.png" /> 
+
+# Contributing to Colony
+Welcome to the Colony Contribution repo where non-developers can get rewarded for contributing to the Colony project. (Developers: check out our [Colony Network repo](https://github.com/JoinColony/colonyNetwork).)
 
 There are two ways to contribute:
 
