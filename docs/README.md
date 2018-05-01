@@ -13,12 +13,13 @@ Below we’ll discuss both.
 If you’re going to be contributing, make sure to read our Contribution Guidelines and follow our best practices.
 
 ## On using Gitcoin to fund issues and reward contributors
-We have a profile page on [Gitcoin](https://gitcoin.co). We’ll be using their tools to: 
+We have [a profile page on Gitcoin](https://gitcoin.co/profile/joincolony). We’ll be using their tools to: 
 
 1. Surface new issues
 2. Fund issues in our repo
 3. Allow community members to “Claim” an issue
 4. Payout for completed work
+5. Tip contributors for adding good ideas
 
 See [this tutorial](https://gitcoin.co/help/dev) on how to use Gitcion.
 
