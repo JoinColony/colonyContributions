@@ -1,7 +1,7 @@
 <img align="center" src="./Colony_Header.png" /> 
 
 # Contributing to Colony
-Welcome to the Colony Contribution repo where non-developers can get rewarded for contributing to the Colony project. (Developers: check out our [Colony Network repo](https://github.com/JoinColony/colonyNetwork).)
+Welcome to the Colony Contribution repo where the community can get rewarded for contributing to the Colony project. (Solidity developers: check out our [Colony Network repo](https://github.com/JoinColony/colonyNetwork).)
 
 There are two ways to contribute:
 
