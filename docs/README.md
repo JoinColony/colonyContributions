@@ -65,5 +65,4 @@ When submitting new issues, fill out the Issue Template as best as you can. If i
 ### How to submit a new issue
 1. Use the [GitHub Issue tracker](https://github.com/JoinColony/colonyContributions/issues/new)
 2. Fill in the issue template with as much detail as possible
-	1. Learn more about Job Story [here](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
-	2. See a sample issue here
+	1. Learn more about the Job Story format [here](https://blog.intercom.com/using-job-stories-design-features-ui-ux/)
