@@ -13,7 +13,13 @@ Below we’ll discuss both.
 If you’re going to be contributing, make sure to read our Contribution Guidelines and follow our best practices.
 
 ## On using Gitcoin to fund issues and reward contributors
-We have [a profile page on Gitcoin](https://gitcoin.co/profile/joincolony). We’ll be using their tools to: 
+We have [a profile page on Gitcoin](https://gitcoin.co/profile/joincolony). 
+
+<a href="https://gitcoin.co/explorer?q=joincolony">
+    <img src="https://gitcoin.co/funding/embed?repo=https://github.com/JoinColony/colonyContributions/">
+</a>
+
+We’ll be using their tools to: 
 
 1. Surface new issues
 2. Fund issues in our repo
